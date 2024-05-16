@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+email=582788306@qq.com	
+name=JohnYuXY
+[remote "origin"]
+	url = https://github.com/JohnYuXY/Edge-detection.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
